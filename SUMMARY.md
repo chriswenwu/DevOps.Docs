@@ -14,7 +14,7 @@
 
 * [1.5 Docker 资源限制](1%20Docker/1.5%20Docker%20资源限制.md)
 
-* [1.6 Docker Linux 权能配置](1%20Docker/1.6%20Docker%20Linux%20权能配置.md)
+* [1.6 Docker 内核能力配置](1%20Docker/1.6%20Docker%20内核能力配置.md)
 
 * [1.7 Docker 健康检查](1%20Docker/1.7%20Docker%20健康检查.md)
 

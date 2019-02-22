@@ -18,6 +18,6 @@
 
 * [1.7 Docker 健康检查](1%20Docker/1.7%20Docker%20健康检查.md)
 
-* [1.8 Docker 理解镜像的构成](1%20Docker/1.8Docker%20理解镜像的构成.md)
+* [1.8 Docker 理解镜像的构成](1%20Docker/1.8%20Docker%20理解镜像的构成.md)
 
 * [1.9 Docker 使用 Dockerfile 自制镜像](1%20Docker/1.9%20Docker%20使用%20Dockerfile%20自制镜像.md)
